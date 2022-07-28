@@ -1,0 +1,41 @@
+header {
+    background-color: rgb(47, 15, 15);
+    color: white;
+    text-align: center;
+    font-size: x-large;
+}
+#stripes {
+    height: 2em;
+    width: 10em;
+}
+.ccm {
+    text-align: end;
+    font-size: xx-small;
+}
+#helmet {
+    height: 1em;
+mix-blend-mode:; 
+}
+a {
+    color: white;
+    margin: auto;
+ 
+  
+}
+ul {
+    list-style: none;
+    margin:auto;
+    
+}
+nav {
+    margin-left: 15em;
+    justify-content: space-between;
+}
+li{
+    font-size: small;
+}
+.kevin {
+    height: 20em;
+    margin-top: 9em;
+    padding: auto;
+}
